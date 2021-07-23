@@ -1,0 +1,5 @@
+---
+title: "Kirkton Public Library"
+site: distill::distill_website
+listing: posts
+---

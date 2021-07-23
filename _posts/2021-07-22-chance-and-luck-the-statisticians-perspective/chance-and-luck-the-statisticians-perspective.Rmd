@@ -1,0 +1,11 @@
+---
+title: "Chance and Luck - The Statisticians Perspective"
+author:
+  - name: Jacob Karnes
+date: 08-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+It is common to believe that when down on one’s luck, luck will return to the downtrodden individual in full force - in due time. This phenomenon is known statistically as regression to the mean: over a long enough time period, significant losses will be balanced by significant gains. However, despite the mathematical framework, there is a significant flaw in the modeling approach. Events are not random, as the model implies, but rather stochastic. The difference to the uninitiated is subtle. Randomness - true randomness - has no pattern. Stochasticism, however, has a pattern - but it is obscured by layers of complication. Trends may underlie events, but they are obfuscated by myriad variables. To put it simply, being down on one’s luck may be one’s own fault.

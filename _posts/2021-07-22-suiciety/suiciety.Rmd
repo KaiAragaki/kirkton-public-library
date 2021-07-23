@@ -1,0 +1,11 @@
+---
+title: "Suiciety"
+author:
+  - name: Nathaniel Koenig
+date: 09-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+You may, at some point in your life, feel like you no longer want to be an active participant. This ideation has been coined 'suicidal thoughts'. Non-transience, rumination, or implementation of these thoughts is classified in the DSM-V as Suicidal Behavior Disorder. It is a leading cause of death in adolescence. It occurs more frequently in low to middle SES countries. Those in marginalized groups are at higher risk. The point being that everything around it is fairly well described, except for its origins on a deep, historical, evolutionary level. Fitness is determined by the ability to pass on viable offspring - Darwin famously noted that small phenotypic aberrations can produce more or less fit organisms that can then be selected for. Through this 'random walk algorithm' of generating a species, why would this endogenous 'kill switch' remain?

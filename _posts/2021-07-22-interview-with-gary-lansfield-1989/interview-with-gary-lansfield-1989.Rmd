@@ -1,0 +1,11 @@
+---
+title: "Interview with Gary Lansfield, 1989"
+author:
+  - name: Gary Lansfield
+date: 01-12-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+I had heard before that friendships have a half-life of around ten years. Well, maybe not quite so technical. But something along the lines of ‘every ten years, you replace half your old friends with new friends’. And I thought, well that can’t be right. They must not know my friends. That statistic is wrong, it doesn’t fit me. I mean, there is a certain danger in believing you aren’t part of a statistic, because you are. But I started thinking, and I realized my friends in my life hadn’t been replaced in ten years - they’d been replaced in five. 

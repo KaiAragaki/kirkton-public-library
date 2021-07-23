@@ -1,0 +1,13 @@
+---
+title: "Mathematical Modeling of Decision Making"
+author:
+  - name: Lauren Krautz
+date: 07-23-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+It is often stated that for every action there are consequences. Usually this in reference to the negative consequences a seemingly useful or advantageous action might have. The converse is true but quite often overlooked, giving a onesidedness to a very much three dimensional concept: For any seemingly negative decision, there will be positive consequences. Often it is the case that it is not necessarily a good time to point out that a bad action had a good side effect - this is the ‘silver lining’ that is often stated wryly by those upon which misfortune is brought. The loss of a loved one to a painful disease, for instance, brings upon the sadness of departure - but additionally, as is often said, they are no longer in pain. The divorce of these two concepts is socially useful but economically and mathematically maladaptive. Through modelling actions and consequences as they really are, rather than how we say they are, we can optimize positive outcomes to minimize negative side effects - but in the same way, we can optimize negative outcomes and maximize positive side effects.
+
+

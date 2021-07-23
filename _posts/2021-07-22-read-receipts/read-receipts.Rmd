@@ -1,0 +1,11 @@
+---
+title: "Read Receipts"
+author:
+  - name: Janice Newmann
+date: 02-07-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The memento is a curious device, because it is neither a memory, which itself is wholly intangible, nor is it physically the place where the event occurred (for instance, no one would consider 'Paris' a memento of their trip to France). It is rather a link, a key, to which we use to access or enhance our access to these intangible memories. By a naive outside party it lends no information to the memory - somewhat akin to methods used in cryptography. Perhaps the most fascinating aspect of it, however, is its ephemeral potency: the memory and memento are synergistic with one another, indeed, but the loss of the base memory destroys the usefulness of the memento. Once cherished receipts now little more than fading paper scraps. The tangible loss of fondness once felt is more haunting than that which never was.

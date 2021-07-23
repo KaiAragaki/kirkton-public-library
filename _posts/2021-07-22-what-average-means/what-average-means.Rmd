@@ -1,0 +1,11 @@
+---
+title: "What Average Means"
+author:
+  - name: Aisha Gould
+date: 10-03-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+...but a bit of heartening news: You are more likely to be the best at something than you are to be average at everything. The average human does not exist. We created him and we gloat over him and envy him but in the end he is but a statistical figment - a smudged facsimile of the beautiful tapestry of humanity.

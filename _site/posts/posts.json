@@ -1,0 +1,155 @@
+[
+  {
+    "path": "posts/2021-07-22-read-receipts/",
+    "title": "Read Receipts",
+    "description": {},
+    "author": [
+      {
+        "name": "Janice Newmann",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-07",
+    "categories": [],
+    "contents": "\r\nThe memento is a curious device, because it is neither a memory, which itself is wholly intangible, nor is it physically the place where the event occurred (for instance, no one would consider ‘Paris’ a memento of their trip to France). It is rather a link, a key, to which we use to access or enhance our access to these intangible memories. By a naive outside party it lends no information to the memory - somewhat akin to methods used in cryptography. Perhaps the most fascinating aspect of it, however, is its ephemeral potency: the memory and memento are synergistic with one another, indeed, but the loss of the base memory destroys the usefulness of the memento. Once cherished receipts now little more than fading paper scraps. The tangible loss of fondness once felt is more haunting than that which never was.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:51:26-04:00",
+    "input_file": "read-receipts.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-interview-with-gary-lansfield-1989/",
+    "title": "Interview with Gary Lansfield, 1989",
+    "description": {},
+    "author": [
+      {
+        "name": "Gary Lansfield",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-12",
+    "categories": [],
+    "contents": "\r\nI had heard before that friendships have a half-life of around ten years. Well, maybe not quite so technical. But something along the lines of ‘every ten years, you replace half your old friends with new friends’. And I thought, well that can’t be right. They must not know my friends. That statistic is wrong, it doesn’t fit me. I mean, there is a certain danger in believing you aren’t part of a statistic, because you are. But I started thinking, and I realized my friends in my life hadn’t been replaced in ten years - they’d been replaced in five.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:46:22-04:00",
+    "input_file": "interview-with-gary-lansfield-1989.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-interview-with-maria-klechkov-1997/",
+    "title": "Interview with Maria Klechkov, 1997",
+    "description": {},
+    "author": [
+      {
+        "name": "Maria Klechkov",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-22",
+    "categories": [],
+    "contents": "\r\n“He came over one Sunday and after a long night of drinking he stared past flickering sodium lamps and said, ‘this is the end, isn’t it?’. Of course he was wrong, but at the same time he was very right.”\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:40:25-04:00",
+    "input_file": "interview-with-maria-klechkov-1997.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-reflections-on-the-past/",
+    "title": "Reflections on the Past",
+    "description": {},
+    "author": [
+      {
+        "name": "Alison Cooper",
+        "url": {}
+      }
+    ],
+    "date": "2021-11-11",
+    "categories": [],
+    "contents": "\r\nMany are troubled by what is oft coined as the ‘ever growing rift between physical and digital’. Often it is stated that the physical is the somehow wholesome and nourishing fraction, while the digital fraction is devoid of the ability to foster spiritual or emotional growth. Georg Summers gave his take on this view - a view which I share - by likening it to a psychology-based framework: phenotypic effects are end products. The digital world has shown to be able to produce happiness, love, knowledge, connection, and solace: it is therefore able to be wholesome and nourishing, and categorization as wholly evil is therefore incorrect. But this matter was covered more rigorously by Summers himself. In my early thesis I argued that both worlds - digital and physical - are cast upon the same common ground, which I defined as the ‘omnial’ world. I realize now it may have been better to abolish the notion of the ‘digital’ world at all: it is not a world but rather a somewhat convoluted and not-readily-apparent manifestation of the physical world. This can be so clearly apparent in the case of the ‘dawn chorus’ - the singing of birds at the break of day. However, this ‘dawn chorus’ is also apparent in electronics: incoming electromagnetic waves in the morning cause electronic interference. Astronomic bodies causing perturbations in both birds and bits.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:38:01-04:00",
+    "input_file": "reflections-on-the-past.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-what-average-means/",
+    "title": "What Average Means",
+    "description": {},
+    "author": [
+      {
+        "name": "Aisha Gould",
+        "url": {}
+      }
+    ],
+    "date": "2021-10-03",
+    "categories": [],
+    "contents": "\r\n…but a bit of heartening news: You are more likely to be the best at something than you are to be average at everything. The average human does not exist. We created him and we gloat over him and envy him but in the end he is but a statistical figment - a smudged facsimile of the beautiful tapestry of humanity.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:36:39-04:00",
+    "input_file": "what-average-means.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-suiciety/",
+    "title": "Suiciety",
+    "description": {},
+    "author": [
+      {
+        "name": "Nathaniel Koenig",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-29",
+    "categories": [],
+    "contents": "\r\nYou may, at some point in your life, feel like you no longer want to be an active participant. This ideation has been coined ‘suicidal thoughts’. Non-transience, rumination, or implementation of these thoughts is classified in the DSM-V as Suicidal Behavior Disorder. It is a leading cause of death in adolescence. It occurs more frequently in low to middle SES countries. Those in marginalized groups are at higher risk. The point being that everything around it is fairly well described, except for its origins on a deep, historical, evolutionary level. Fitness is determined by the ability to pass on viable offspring - Darwin famously noted that small phenotypic aberrations can produce more or less fit organisms that can then be selected for. Through this ‘random walk algorithm’ of generating a species, why would this endogenous ‘kill switch’ remain?\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:32:57-04:00",
+    "input_file": "suiciety.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-chance-and-luck-the-statisticians-perspective/",
+    "title": "Chance and Luck - The Statisticians Perspective",
+    "description": {},
+    "author": [
+      {
+        "name": "Jacob Karnes",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-03",
+    "categories": [],
+    "contents": "\r\nIt is common to believe that when down on one’s luck, luck will return to the downtrodden individual in full force - in due time. This phenomenon is known statistically as regression to the mean: over a long enough time period, significant losses will be balanced by significant gains. However, despite the mathematical framework, there is a significant flaw in the modeling approach. Events are not random, as the model implies, but rather stochastic. The difference to the uninitiated is subtle. Randomness - true randomness - has no pattern. Stochasticism, however, has a pattern - but it is obscured by layers of complication. Trends may underlie events, but they are obfuscated by myriad variables. To put it simply, being down on one’s luck may be one’s own fault.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:28:35-04:00",
+    "input_file": "chance-and-luck-the-statisticians-perspective.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-mathematical-modeling-of-decision-making/",
+    "title": "Mathematical Modeling of Decision Making",
+    "description": {},
+    "author": [
+      {
+        "name": "Lauren Krautz",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-23",
+    "categories": [],
+    "contents": "\r\nIt is often stated that for every action there are consequences. Usually this in reference to the negative consequences a seemingly useful or advantageous action might have. The converse is true but quite often overlooked, giving a onesidedness to a very much three dimensional concept: For any seemingly negative decision, there will be positive consequences. Often it is the case that it is not necessarily a good time to point out that a bad action had a good side effect - this is the ‘silver lining’ that is often stated wryly by those upon which misfortune is brought. The loss of a loved one to a painful disease, for instance, brings upon the sadness of departure - but additionally, as is often said, they are no longer in pain. The divorce of these two concepts is socially useful but economically and mathematically maladaptive. Through modelling actions and consequences as they really are, rather than how we say they are, we can optimize positive outcomes to minimize negative side effects - but in the same way, we can optimize negative outcomes and maximize positive side effects.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:24:52-04:00",
+    "input_file": "mathematical-modeling-of-decision-making.knit.md"
+  },
+  {
+    "path": "posts/2021-07-22-now-hiring/",
+    "title": "NOW HIRING",
+    "description": "COMPUTER WHIZ WANTED",
+    "author": [
+      {
+        "name": "JIM",
+        "url": {}
+      }
+    ],
+    "date": "2021-07-22",
+    "categories": [],
+    "contents": "\r\nHELLO!!!\r\nTHE GOOD FOLKS FROM WHAT IS LEFT OF THE KIRKTON PUBLIC LIBRARY NEED HELP TRANSCRIBING SCRAPS AS THEY ARE FOUND FROM THE RUBBLE. MUST BE A REAL TECH AND ’NET WHIZ. GOOD PAY AND IN AIR CONDITIONING. I CAN TEACH YOU TO PLAY GUITAR AND SUSAN MAKES VERY GOOD SCONES THAT SHE WILL BRING SOMETIMES. CALL WRITE OR FAX ME TO APPLY. THANK YOU!!!!!\r\n– JIM\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T22:18:23-04:00",
+    "input_file": {}
+  }
+]

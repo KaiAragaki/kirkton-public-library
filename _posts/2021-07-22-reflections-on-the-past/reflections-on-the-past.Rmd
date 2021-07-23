@@ -1,0 +1,12 @@
+---
+title: "Reflections on the Past"
+author:
+  - name: Alison Cooper
+date: 11-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Many are troubled by what is oft coined as the 'ever growing rift between physical and digital'. Often it is stated that the physical is the somehow wholesome and nourishing fraction, while the digital fraction is devoid of the ability to foster spiritual or emotional growth. Georg Summers gave his take on this view - a view which I share - by likening it to a psychology-based framework: phenotypic effects are end products. The digital world has shown to be able to produce happiness, love, knowledge, connection, and solace: it is therefore able to be wholesome and nourishing, and categorization as wholly evil is therefore incorrect. But this matter was covered more rigorously by Summers himself. In my early thesis I argued that both worlds - digital and physical - are cast upon the same common ground, which I defined as the 'omnial' world. I realize now it may have been better to abolish the notion of the 'digital' world at all: it is not a world but rather a somewhat convoluted and not-readily-apparent manifestation of the physical world. This can be so clearly apparent in the case of the 'dawn chorus' - the singing of birds at the break of day. However, this 'dawn chorus' is also apparent in electronics: incoming electromagnetic waves in the morning cause electronic interference. Astronomic bodies causing perturbations in both birds and bits.
+

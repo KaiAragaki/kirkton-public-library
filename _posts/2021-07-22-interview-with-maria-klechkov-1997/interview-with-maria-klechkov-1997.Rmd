@@ -1,0 +1,11 @@
+---
+title: "Interview with Maria Klechkov, 1997"
+author:
+  - name: Maria Klechkov
+date: 12-22-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+“He came over one Sunday and after a long night of drinking he stared past flickering sodium lamps and said, ‘this is the end, isn’t it?’. Of course he was wrong, but at the same time he was very right.”
