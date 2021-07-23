@@ -1,5 +1,107 @@
 [
   {
+    "path": "posts/2021-07-22-in-bits/",
+    "title": "In Bits",
+    "description": {},
+    "author": [
+      {
+        "name": "Julia Langford",
+        "url": {}
+      }
+    ],
+    "date": "2022-12-24",
+    "categories": [],
+    "contents": "\r\nIt’s all just pixels.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:50:34-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-the-blind-robot/",
+    "title": "The Blind Robot",
+    "description": {},
+    "author": [
+      {
+        "name": "Kelly Dawson",
+        "url": {}
+      }
+    ],
+    "date": "2022-11-12",
+    "categories": [],
+    "contents": "\r\nThe truth of the matter is that neural networks cannot obtain information that was not there to begin with. Their power comes from their ability to have a pool of experience so vast that nearly any novel scenario has hundreds nearly identical known scenarios. This perceived flexibility often hides a crippling rigidity. A truly novel experience, where any reasonable human would throw in the towel, is happily churned away by the machine. A warning to those who perceive AI as our unbiased saving grace: Everything is made by humans.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:51:56-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-interview-with-dr-carmen-voigt-2013/",
+    "title": "Interview with Dr. Carmen Voigt, 2013",
+    "description": {},
+    "author": [
+      {
+        "name": "Carmen Voigt",
+        "url": {}
+      }
+    ],
+    "date": "2022-10-30",
+    "categories": [],
+    "contents": "\r\nThe McCoine group in Rochester performed an unprecedented longitudinal study. Three cohort of five individuals were selected from a pool of 100 coworkers using a Euclidean distance metric to determine group compactness as a surrogate for social interaction - that is, three ‘cliques’ were selected in an unbiased manner. While McCoine et al made a plethora of findings we still base modern social psychology on today, perhaps the most fascinating is ‘the outlier effect’. For any given clique, there exists an outlier (such as that in a dendrogram) that is significantly more distant from the ‘kernel’ clique than would be expected by random chance. When this outlier was removed (in the case of cohort gamma) the group reforms to produce a new outlier. That is to say: one member must become the outcast - the sacrificial lamb - to preserve the rest.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:50:49-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-the-new-james-kronan/",
+    "title": "The New James Kronan",
+    "description": {},
+    "author": [
+      {
+        "name": "Emil Luci",
+        "url": {}
+      }
+    ],
+    "date": "2022-09-10",
+    "categories": [],
+    "contents": "\r\nThick black streaks of paint hurriedly slashed across a virgin canvas. Slowly the words materialized. ‘What has been done cannot be undone’. The canvas was then lit on fire.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:52:11-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-mimicry-and-mockery/",
+    "title": "Mimicry and Mockery",
+    "description": {},
+    "author": [
+      {
+        "name": "Lucy Ellis",
+        "url": {}
+      }
+    ],
+    "date": "2022-08-18",
+    "categories": [],
+    "contents": "\r\nGoddess of childbirth and family, Hera is one of the most well known deities in Greek mythology. Turning from mythological to biological, hERα (human estrogen receptor alpha) is central to breast cancer. Greek letters and esoteric capitalization make this perverted echo visually apparent: She who seeks to bring together sharing the name of that which seems only to tear apart.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:51:29-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-love-on-display-quantifying-the-ephemeral/",
+    "title": "Love on Display: Quantifying the Ephemeral",
+    "description": "Socioengineering. 2022. Abstract.",
+    "author": [
+      {
+        "name": "Bellefeuille et al.",
+        "url": {}
+      }
+    ],
+    "date": "2022-07-07",
+    "categories": [],
+    "contents": "\r\nThe latticework of steel tubes was twenty feet above the street and was anchored to a building on each side (North: James’ Distillery; South: Aquita Antiques). Incandescent bulbs were arranged in a 12x60 grid (H, W). An array of cameras was installed along the lower edge of the sign (20x Kodak PixPro FZ43, modified) and fed into an internet connected PC (OS: Ubuntu 20.04, build 20.1) where it would stream video from the cameras to our servers. Facial Synergy Score (FSS) and Body Language Interpretation ScoreS (BLISS) were calculated for each identified pair of individuals (Using NetWorX object identification). Threshold value for FSS was 5, threshold values for BLISS were 0.1, 2, 0.2, 3, 0.01 for the OCEAN classifier, respectively. If cutoffs were reached, incandescent lights would light to spell ‘LOVE’. If cutoffs were not met, lights would light to spell ‘LOVE?’\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:51:08-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-07-22-broken-bridges/",
     "title": "Broken Bridges",
     "description": {},
