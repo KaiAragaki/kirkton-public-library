@@ -1,0 +1,11 @@
+---
+title: "...Now You Don't"
+author:
+  - name: Jennifer De Jong
+date: 03-04-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Object permanence (the knowledge that an object exists despite not being in the individual's field of vision) is a rudimentary cognitive function that develops around one year of age. In a sense, the universe of a baby is that which they can see. In greater detail, everything which is seen exists, and everything that is not seen does not exist. This is later expanded, provided typical cognitive development, to that which can be known. However, there is a caveat: uncertainty. In this case, everything that is known may not necessarily exist, while everything that exists may not necessarily be known.

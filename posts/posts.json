@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-07-22-now-you-dont/",
+    "title": "...Now You Don't",
+    "description": {},
+    "author": [
+      {
+        "name": "Jennifer De Jong",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-04",
+    "categories": [],
+    "contents": "\r\nObject permanence (the knowledge that an object exists despite not being in the individual’s field of vision) is a rudimentary cognitive function that develops around one year of age. In a sense, the universe of a baby is that which they can see. In greater detail, everything which is seen exists, and everything that is not seen does not exist. This is later expanded, provided typical cognitive development, to that which can be known. However, there is a caveat: uncertainty. In this case, everything that is known may not necessarily exist, while everything that exists may not necessarily be known.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:19:26-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-07-22-read-receipts/",
     "title": "Read Receipts",
     "description": {},
@@ -150,6 +167,57 @@
     "contents": "\r\nHELLO!!!\r\nTHE GOOD FOLKS FROM WHAT IS LEFT OF THE KIRKTON PUBLIC LIBRARY NEED HELP TRANSCRIBING SCRAPS AS THEY ARE FOUND FROM THE RUBBLE. MUST BE A REAL TECH AND ’NET WHIZ. GOOD PAY AND IN AIR CONDITIONING. I CAN TEACH YOU TO PLAY GUITAR AND SUSAN MAKES VERY GOOD SCONES THAT SHE WILL BRING SOMETIMES. CALL WRITE OR FAX ME TO APPLY. THANK YOU!!!!!\r\n– JIM\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2021-07-22T22:18:23-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-broken-bridges/",
+    "title": "Broken Bridges",
+    "description": {},
+    "author": [
+      {
+        "name": "Hadley Erikson",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-08",
+    "categories": [],
+    "contents": "\r\nAs technology becomes more and more complicated, the user - at no fault of their own - understands less and less while having to believe more and more.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:25:12-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-the-old-ways/",
+    "title": "The Old Ways",
+    "description": {},
+    "author": [
+      {
+        "name": "Kris Jansen",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-21",
+    "categories": [],
+    "contents": "\r\nThe modern life is full of waiting. Things are always coming, but never here.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:24:06-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-22-vox-populi/",
+    "title": "Vox Populi",
+    "description": {},
+    "author": [
+      {
+        "name": "Jeremy Salk",
+        "url": {}
+      }
+    ],
+    "date": "2021-04-07",
+    "categories": [],
+    "contents": "\r\n2033 was marked as the beginning of the end for the voice actor. Alphabet’s child company Google had developed a tool they called Vocus. Through neural networks and web-scraping of publicly available voices on the internet, movies, songs, and some in-house recording (particularly for their machine learning training sets, to allow for emotional annotation - ironically this required them to hire voice actors), Vocus was born. It was initially released on an industry-grade, subscription-based model basis, but after the Public Seeding, Public Reaping (PSPR) ruling in 2035 Google was forced to either discontinue Vocus or make it publicly available.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:22:42-04:00",
     "input_file": {}
   }
 ]

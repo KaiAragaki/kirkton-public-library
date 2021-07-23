@@ -1,0 +1,11 @@
+---
+title: "In Bits"
+author:
+  - name: Julia Langford
+date: 12-24-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+It's all just pixels.

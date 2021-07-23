@@ -1,0 +1,12 @@
+---
+title: "Mimicry and Mockery"
+author:
+  - name: Lucy Ellis
+date: 08-18-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Goddess of childbirth and family, Hera is one of the most well known deities in Greek mythology. Turning from mythological to biological, hERα (human estrogen receptor alpha) is central to breast cancer. Greek letters and esoteric capitalization make this perverted echo visually apparent: She who seeks to bring together sharing the name of that which seems only to tear apart.
+

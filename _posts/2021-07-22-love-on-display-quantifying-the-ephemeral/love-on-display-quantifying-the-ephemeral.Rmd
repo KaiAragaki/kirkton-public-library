@@ -1,0 +1,13 @@
+---
+title: "Love on Display: Quantifying the Ephemeral"
+description: |
+  Socioengineering. 2022. Abstract.
+author:
+  - name: Bellefeuille et al.
+date: 07-07-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The latticework of steel tubes was twenty feet above the street and was anchored to a building on each side (North: James' Distillery; South: Aquita Antiques). Incandescent bulbs were arranged in a 12x60 grid (H, W). An array of cameras was installed along the lower edge of the sign (20x Kodak PixPro FZ43, modified) and fed into an internet connected PC (OS: Ubuntu 20.04, build 20.1)  where it would stream video from the cameras to our servers.  Facial Synergy Score (FSS) and Body Language Interpretation ScoreS (BLISS) were calculated for each identified pair of individuals (Using NetWorX object identification). Threshold value for FSS was 5, threshold values for BLISS were 0.1, 2, 0.2, 3, 0.01 for the OCEAN classifier, respectively. If cutoffs were reached, incandescent lights would light to spell 'LOVE'. If cutoffs were not met, lights would light to spell 'LOVE?'

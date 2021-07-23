@@ -1,0 +1,11 @@
+---
+title: "Vox Populi"
+author:
+  - name: Jeremy Salk
+date: 04-07-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+2033 was marked as the beginning of the end for the voice actor. Alphabet's child company Google had developed a tool they called Vocus. Through neural networks and web-scraping of publicly available voices on the internet, movies, songs, and some in-house recording (particularly for their machine learning training sets, to allow for emotional annotation - ironically this required them to hire voice actors), Vocus was born. It was initially released on an industry-grade, subscription-based model basis, but after the Public Seeding, Public Reaping (PSPR) ruling in 2035 Google was forced to either discontinue Vocus or make it publicly available.

@@ -1,0 +1,11 @@
+---
+title: "The Blind Robot"
+author:
+  - name: Kelly Dawson
+date: 11-12-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The truth of the matter is that neural networks cannot obtain information that was not there to begin with. Their power comes from their ability to have a pool of experience so vast that nearly any novel scenario has hundreds nearly identical known scenarios. This perceived flexibility often hides a crippling rigidity. A truly novel experience, where any reasonable human would throw in the towel, is happily churned away by the machine. A warning to those who perceive AI as our unbiased saving grace: Everything is made by humans.

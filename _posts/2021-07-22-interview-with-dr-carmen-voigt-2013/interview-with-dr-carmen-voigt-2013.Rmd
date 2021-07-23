@@ -1,0 +1,13 @@
+---
+title: "Interview with Dr. Carmen Voigt, 2013"
+author:
+  - name: Carmen Voigt
+date: 10-30-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+The McCoine group in Rochester performed an unprecedented longitudinal study. Three cohort of five individuals were selected from a pool of 100 coworkers using a Euclidean distance metric to determine group compactness as a surrogate for social interaction - that is, three ‘cliques’ were selected in an unbiased manner. While McCoine et al made a plethora of findings we still base modern social psychology on today, perhaps the most fascinating is ‘the outlier effect’. For any given clique, there exists an outlier (such as that in a dendrogram) that is significantly more distant from the ‘kernel’ clique than would be expected by random chance. When this outlier was removed (in the case of cohort gamma) the group reforms to produce a new outlier. That is to say: one member must become the outcast - the sacrificial lamb - to preserve the rest.
+
+

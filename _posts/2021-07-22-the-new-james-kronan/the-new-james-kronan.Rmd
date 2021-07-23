@@ -1,0 +1,11 @@
+---
+title: "The New James Kronan"
+author:
+  - name: Emil Luci
+date: 09-10-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Thick black streaks of paint hurriedly slashed across a virgin canvas. Slowly the words materialized. 'What has been done cannot be undone'. The canvas was then lit on fire.
