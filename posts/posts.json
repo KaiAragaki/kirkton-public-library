@@ -1,5 +1,56 @@
 [
   {
+    "path": "posts/2021-07-22-broken-bridges/",
+    "title": "Broken Bridges",
+    "description": {},
+    "author": [
+      {
+        "name": "Hadley Erikson",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-08",
+    "categories": [],
+    "contents": "\r\nAs technology becomes more and more complicated, the user - at no fault of their own - understands less and less while having to believe more and more.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:47:53-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-05-21-the-old-ways/",
+    "title": "The Old Ways",
+    "description": {},
+    "author": [
+      {
+        "name": "Kris Jansen",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-21",
+    "categories": [],
+    "contents": "\r\nThe modern life is full of waiting. Things are always coming, but never here.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:47:08-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-04-07-vox-populi/",
+    "title": "Vox Populi",
+    "description": {},
+    "author": [
+      {
+        "name": "Jeremy Salk",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-07",
+    "categories": [],
+    "contents": "\r\n2033 was marked as the beginning of the end for the voice actor. Alphabet’s child company Google had developed a tool they called Vocus. Through neural networks and web-scraping of publicly available voices on the internet, movies, songs, and some in-house recording (particularly for their machine learning training sets, to allow for emotional annotation - ironically this required them to hire voice actors), Vocus was born. It was initially released on an industry-grade, subscription-based model basis, but after the Public Seeding, Public Reaping (PSPR) ruling in 2035 Google was forced to either discontinue Vocus or make it publicly available.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-07-22T23:47:24-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-07-22-now-you-dont/",
     "title": "...Now You Don't",
     "description": {},
@@ -85,7 +136,7 @@
     "input_file": {}
   },
   {
-    "path": "posts/2021-07-22-what-average-means/",
+    "path": "posts/2021-10-03-what-average-means/",
     "title": "What Average Means",
     "description": {},
     "author": [
@@ -167,57 +218,6 @@
     "contents": "\r\nHELLO!!!\r\nTHE GOOD FOLKS FROM WHAT IS LEFT OF THE KIRKTON PUBLIC LIBRARY NEED HELP TRANSCRIBING SCRAPS AS THEY ARE FOUND FROM THE RUBBLE. MUST BE A REAL TECH AND ’NET WHIZ. GOOD PAY AND IN AIR CONDITIONING. I CAN TEACH YOU TO PLAY GUITAR AND SUSAN MAKES VERY GOOD SCONES THAT SHE WILL BRING SOMETIMES. CALL WRITE OR FAX ME TO APPLY. THANK YOU!!!!!\r\n– JIM\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2021-07-22T22:18:23-04:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-07-22-broken-bridges/",
-    "title": "Broken Bridges",
-    "description": {},
-    "author": [
-      {
-        "name": "Hadley Erikson",
-        "url": {}
-      }
-    ],
-    "date": "2021-06-08",
-    "categories": [],
-    "contents": "\r\nAs technology becomes more and more complicated, the user - at no fault of their own - understands less and less while having to believe more and more.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-07-22T23:25:12-04:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-07-22-the-old-ways/",
-    "title": "The Old Ways",
-    "description": {},
-    "author": [
-      {
-        "name": "Kris Jansen",
-        "url": {}
-      }
-    ],
-    "date": "2021-05-21",
-    "categories": [],
-    "contents": "\r\nThe modern life is full of waiting. Things are always coming, but never here.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-07-22T23:24:06-04:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-07-22-vox-populi/",
-    "title": "Vox Populi",
-    "description": {},
-    "author": [
-      {
-        "name": "Jeremy Salk",
-        "url": {}
-      }
-    ],
-    "date": "2021-04-07",
-    "categories": [],
-    "contents": "\r\n2033 was marked as the beginning of the end for the voice actor. Alphabet’s child company Google had developed a tool they called Vocus. Through neural networks and web-scraping of publicly available voices on the internet, movies, songs, and some in-house recording (particularly for their machine learning training sets, to allow for emotional annotation - ironically this required them to hire voice actors), Vocus was born. It was initially released on an industry-grade, subscription-based model basis, but after the Public Seeding, Public Reaping (PSPR) ruling in 2035 Google was forced to either discontinue Vocus or make it publicly available.\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2021-07-22T23:22:42-04:00",
     "input_file": {}
   }
 ]
