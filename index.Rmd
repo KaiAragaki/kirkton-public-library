@@ -1,5 +1,7 @@
 ---
 title: "Kirkton Public Library"
+description: |
+  Kirkton Public Library
 site: distill::distill_website
 listing: posts
 ---

@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Kirkton Public Library",
+      "description": "Kirkton Public Library\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-07-22T23:02:30-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
